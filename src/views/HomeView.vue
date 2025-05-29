@@ -6,7 +6,6 @@ import SectionTwoComp from '@/components/SectionTwoComp.vue';
 import SectionTreeComp from '@/components/SectionTreeComp.vue';
 import SectionFourComp from '@/components/SectionFourComp.vue'
 import SectionFiveComp from '@/components/SectionFiveComp.vue';
-import SubSectionOneComp from '@/components/SubSectionOneComp.vue';
 // import SectionSixComp from '@/components/SectionSixComp.vue';
 </script>
 
@@ -14,7 +13,6 @@ import SubSectionOneComp from '@/components/SubSectionOneComp.vue';
   <TopbarComp />
   <SubTopbarComp />
   <SectionOneComp />
-  <SubSectionOneComp />
   <SectionTwoComp />
   <SectionTreeComp />
   <SectionFourComp />
