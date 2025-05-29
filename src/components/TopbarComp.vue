@@ -32,7 +32,6 @@ const menuOpen = ref(false)
       <a href="#dns" class="hover:text-gray-400">DNS na Internet</a>
       <a href="#problemas" class="hover:text-gray-400">Problemas Comuns</a>
       <a href="#contexto" class="hover:text-gray-400">Contexto</a>
-      <a href="#contexto" class="hover:text-gray-400">Fontes</a>
     </nav>
 
   </header>
