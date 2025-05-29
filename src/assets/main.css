@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-azul-claro: #1c2b78;
+  --color-azul-escuro: #0e1f7c;
+}
+
+root,
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  text-aling: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
