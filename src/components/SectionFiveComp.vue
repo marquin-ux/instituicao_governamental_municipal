@@ -1,6 +1,6 @@
 <template>
   <section id="contexto"
-    class="bg-azul-escuro min-h-screen w-full flex flex-col justify-center items-center gap-10 px-6 py-10 rounded-lg shadow-lg">
+    class="bg-azul-escuro min-h-screen w-full flex flex-col justify-center items-center space-y-15 px-6 py-10 rounded-lg shadow-lg">
     <!-- Título -->
     <h1 class="text-4xl font-bold text-white drop-shadow-md">
       Contexto do Projeto
@@ -48,9 +48,9 @@
         </p>
       </div>
     </div>
-    <div class="flex justify-center w-full px-6">
+    <div class="flex justify-center w-full px-6 mt-20">
       <img src="../assets/images/root.png" alt="DNS Root"
-        class="rounded-lg shadow-md max-w-[500px] w-full object-contain" />
+        class="rounded-lg shadow-md max-w-[800px] w-full object-contain" />
     </div>
 
 
